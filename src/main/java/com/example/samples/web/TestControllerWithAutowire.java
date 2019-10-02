@@ -1,4 +1,4 @@
-package com.example.samples;
+package com.example.samples.web;
 
 import com.example.samples.utils.PropertiesUtil;
 import org.springframework.beans.factory.annotation.Autowired;
